@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PMKFoundation",
+        "repositoryURL": "https://github.com/PromiseKit/Foundation.git",
+        "state": {
+          "branch": null,
+          "revision": "364f0aac4daac089be340328964074504cc0befb",
+          "version": "3.0.4"
+        }
+      },
+      {
+        "package": "HeliumLogger",
+        "repositoryURL": "https://github.com/IBM-Swift/HeliumLogger.git",
+        "state": {
+          "branch": null,
+          "revision": "2afeb4c02f5a48a7fbd081fe8607b91eeebd7ecb",
+          "version": "1.7.1"
+        }
+      },
+      {
+        "package": "LoggerAPI",
+        "repositoryURL": "https://github.com/IBM-Swift/LoggerAPI.git",
+        "state": {
+          "branch": null,
+          "revision": "ee0084cbb8bace59b3409cec05bedc5d2e97f8b7",
+          "version": "1.7.2"
+        }
+      },
+      {
+        "package": "PromiseKit",
+        "repositoryURL": "https://github.com/mxcl/PromiseKit.git",
+        "state": {
+          "branch": null,
+          "revision": "186439d480e8e0bc07a1387bedbff1c75389074a",
+          "version": "6.2.3"
+        }
+      },
+      {
+        "package": "Rainbow",
+        "repositoryURL": "https://github.com/onevcat/Rainbow",
+        "state": {
+          "branch": null,
+          "revision": "f69961599ad524251d677fbec9e4bac57385d6fc",
+          "version": "3.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
